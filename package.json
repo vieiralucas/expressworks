@@ -1,0 +1,25 @@
+{
+  "name": "expressworks",
+  "version": "1.0.0",
+  "description": "expressworks ============",
+  "dependencies": {
+    "body-parser": "^1.9.2",
+    "express": "^4.10.1",
+    "jade": "^1.7.0",
+    "stylus": "^0.49.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vieiralucas/expressworks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vieiralucas/expressworks/issues"
+  },
+  "homepage": "https://github.com/vieiralucas/expressworks"
+}
